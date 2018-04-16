@@ -1,0 +1,23 @@
+{
+  "name": "learnexpress",
+  "version": "0.0.1",
+  "description": "a small project to learn how to set up an express js server",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricardogalvez/learnExpress.git"
+  },
+  "keywords": [
+    "express",
+    "node"
+  ],
+  "author": "Ricardo E. Galvez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ricardogalvez/learnExpress/issues"
+  },
+  "homepage": "https://github.com/ricardogalvez/learnExpress#readme"
+}
